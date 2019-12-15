@@ -1,2 +1,1 @@
-# ghimire
-My name is Prajwal Ghimire
+print("Gaman Aryal")
